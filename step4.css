@@ -1,0 +1,21 @@
+body{ 
+    background: linear-gradient( rgb(255, 183, 183), rgb(255, 255, 168)) fixed ;
+    text-align: center;
+}
+
+.hg {
+text-shadow: rgb(255, 0, 0) -2px 0,
+yellow 2px 0;
+}
+
+
+button {
+    border: none;
+    background:rgb(255, 225, 0);
+    padding: 3px 15px;
+    color: #fff;
+    border-radius: 6px;
+    transition: 0,2s;
+    box-shadow: 0 0 0 4px #fff, 0 0 0 6px hsl(0, 100%, 57%);
+   
+ }

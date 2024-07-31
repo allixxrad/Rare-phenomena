@@ -1,0 +1,60 @@
+.social-links a{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  box-shadow: 0 0 20px 30px rgba(0, 13, 255, 0.05);
+  margin: 0 30px;
+  border-radius: 10px;
+  position: relative;
+ 
+}
+
+
+
+
+
+.social-links a:hover::after{
+  top: 0;
+}
+
+
+
+
+
+.fan{
+  text-align: center;
+  color: rgb(42, 150, 237);
+}
+
+body {
+background-color:rgb(181, 217, 255);
+text-align: center;
+}
+
+button {
+ border: none;
+ background:rgb(114, 194, 235);
+ padding: 1px 40px;
+ color: #fff;
+ border-radius: 6px;
+ transition: 0,2s;
+ box-shadow: 0 0 0 3px #fff, 0 0 0 6px #4070f4;
+}
+
+.social-links a{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  box-shadow: 0 0 20px 30px rgba(0, 13, 255, 0.05);
+  margin: 0 30px;
+  border-radius: 10px;
+  position: relative;
+}
+
+
+
+

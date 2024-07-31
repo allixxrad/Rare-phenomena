@@ -1,0 +1,20 @@
+body{ 
+    background: linear-gradient(rgb(255, 167, 167), rgb(250, 209, 132), rgb(255, 255, 150), rgb(157, 241, 157), rgb(168, 168, 255), rgb(253, 188, 253)) fixed ;
+    text-align: center;
+}
+
+button {
+    border: none;
+    background: rgb(247, 159, 210);
+    padding: 3px 15px;
+    color: #fff;
+    border-radius: 6px;
+    transition: 0,2s;
+    box-shadow: 0 0 0 4px #fff, 0 0 0 6px #e695ff;
+   
+ }
+
+ .i {
+    text-shadow: rgb(250, 88, 88) -2px 0,
+    rgb(255, 197, 89) 2px 0;
+ }
